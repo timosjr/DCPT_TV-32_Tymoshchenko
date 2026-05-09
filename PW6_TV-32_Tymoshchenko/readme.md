@@ -34,11 +34,11 @@
 
 <p align="center"> Рисунок 4 - Магнітне поле мікрохвильової печі</p>
 
-![ПК](ПК.png)
+![ПК](graphics/ПК.png)
 
 <p align="center"> Рисунок 5 - Магнітне поле персонального комп'ютера</p>
 
-![overall_comparison](overall_comparison.png)
+![overall_comparison](graphics/overall_comparison.png)
 
 <p align="center"> Рисунок 6 - Порівняння розглянутих магнітних полів</p>
 
